@@ -1,0 +1,12 @@
+^ -  means Beginning
+$ - means End
+
+[a-zA-Z]{1,} - any number of alphabets
+
+\\d+  - any number of digits
+
+[a-zA-Z0-9]{1,} - Alpha Numeric
+
+(.*) - List
+
+[^\"]* - anything
